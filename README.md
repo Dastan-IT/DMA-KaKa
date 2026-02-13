@@ -22,7 +22,7 @@ OS: Windows 10 / 11 (x64).
 🔑 How to Get Access (License Key)
 This project utilizes a personal licensing system. To download the latest build and receive your Activation Key, join our official community:
 
-📢 Official Telegram Group: t.me/DMA_KaKa
+📢 Official Telegram Group: https://t.me/DMA_KaKa
    DISCORD https://discord.gg/cfd8PHN4az
 Important: All updates, firmware customization guides, and technical support are managed exclusively through our Telegram. Contact the administrator to request your key.
 
