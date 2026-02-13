@@ -23,7 +23,7 @@ OS: Windows 10 / 11 (x64).
 This project utilizes a personal licensing system. To download the latest build and receive your Activation Key, join our official community:
 
 📢 Official Telegram Group: t.me/DMA_KaKa
-
+   DISCORD https://discord.gg/cfd8PHN4az
 Important: All updates, firmware customization guides, and technical support are managed exclusively through our Telegram. Contact the administrator to request your key.
 
 📜 Legal Notice / Disclaimer
@@ -31,3 +31,4 @@ This software is provided for educational and research purposes only. The develo
 
 👨‍💻 Developer
 Dastan-IT Specialized in Professional DMA Solutions & Hardware Emulation
+https://discord.gg/cfd8PHN4az
