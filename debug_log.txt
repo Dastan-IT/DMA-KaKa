@@ -1,0 +1,14 @@
+=== PUBG DMA LOG START ===
+Time: 2026-02-13 09:09:26
+=== OFFSET LOADING START ===
+[OFFSET] Trying to load from internet: https://raw.githubusercontent.com/vahe091111509/PUBG-OFSET/refs/heads/main/offset.txt
+[OFFSET] Internet load result: 0000000000000000, buffer size: 8169
+[OFFSET] Online load SUCCESS, buffer size: 8169
+[OFFSET] Starting to extract offsets...
+[OFFSET] XenuineDecrypt = 0xf749028
+[OFFSET] UWorld = 0x10f9c5b8
+[OFFSET] GNames = 0x11217c20
+[OFFSET] ObjID = 0x14
+[OFFSET] Extraction completed!
+=== OFFSET LOADING END ===
+init error! No get TslGame.exe read pid faild
